@@ -1,4 +1,4 @@
-# Formulário inscrição
+# Formulário inscrição ✏️
 
 Projeto realizado tem o objetivo de criar um formulário de inscrição responsivo!
 
